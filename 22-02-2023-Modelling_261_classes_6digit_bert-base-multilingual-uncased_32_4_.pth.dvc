@@ -1,0 +1,4 @@
+outs:
+- md5: 9c505205609f589ff228acf1dc60af45
+  size: 670341225
+  path: 22-02-2023-Modelling_261_classes_6digit_bert-base-multilingual-uncased_32_4_.pth
